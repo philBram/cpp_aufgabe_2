@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "dishlib",
+					"jsonFile" : "directory-dishlib-Debug-e64710d9ba1946aaefb0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "dishlib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Versuch_2",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Versuch_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Versuch_2-Debug-6f27018026f56fc5a36c.json",
+					"name" : "Versuch_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "dishlib::@5d387b82f70abadb349f",
+					"jsonFile" : "target-dishlib-Debug-03bd7579b4736334e03d.json",
+					"name" : "dishlib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2/cmake-build-debug",
+		"source" : "/media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

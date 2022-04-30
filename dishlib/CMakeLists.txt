@@ -1,0 +1,1 @@
+add_library(dishlib DishFactory.cpp DishFactory.h AbstractDish.cpp AbstractDish.h VegetableSoup.cpp VegetableSoup.h PizzaMargherita.cpp PizzaMargherita.h)

@@ -1,0 +1,4 @@
+/home/alllowd/CLion-2021.3.4/clion-2021.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/alllowd/CLion-2021.3.4/clion-2021.3.4/bin/ninja/linux/ninja -G Ninja /media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2/cmake-build-debug

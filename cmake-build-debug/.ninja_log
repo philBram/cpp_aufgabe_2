@@ -1,0 +1,23 @@
+# ninja log v5
+899	936	1651345082512691500	dishlib/libdishlib.a	f80737db2c3a1ac8
+1	617	1651347846503406800	CMakeFiles/Versuch_2.dir/main.cpp.o	ffe64bd32ea71c30
+617	734	1651347846621138000	Versuch_2	ade32c17a9e6bc1c
+1	430	1651347846317186400	CMakeFiles/Versuch_2.dir/Customer.cpp.o	53dd4e174687a00c
+11	607	1651345082182575800	dishlib/CMakeFiles/dishlib.dir/PizzaMargherita.cpp.o	cdb73142457928b0
+3	899	1651345082474774400	dishlib/CMakeFiles/dishlib.dir/DishFactory.cpp.o	ec19b427cc326629
+1	14	1651337540053462600	dishlib/CMakeFiles/dishlib.dir/Dish.cpp.o	68d3206f8565d1b5
+7	624	1651345082198652400	dishlib/CMakeFiles/dishlib.dir/AbstractDish.cpp.o	400386f2c3ca4cce
+9	817	1651345082391485100	dishlib/CMakeFiles/dishlib.dir/VegetableSoup.cpp.o	ef0c6b4221b56895
+2	314	1651337498577542400	CMakeFiles/Versuch_2.dir/A.cpp.o	1c1a0c75419b7258
+0	252	1650071588145696500	CMakeFiles/Versuch_2.dir/MyClass.cpp.o	5ada28ce0dd0a1ba
+1	355	1651348125326954600	CMakeFiles/Versuch_2.dir/Customer.cpp.o	53dd4e174687a00c
+1	552	1651348125524237600	CMakeFiles/Versuch_2.dir/main.cpp.o	ffe64bd32ea71c30
+552	663	1651348125635257300	Versuch_2	ade32c17a9e6bc1c
+78	618	1651348309810799100	dishlib/CMakeFiles/dishlib.dir/PizzaMargherita.cpp.o	cdb73142457928b0
+77	671	1651348309863129600	dishlib/CMakeFiles/dishlib.dir/VegetableSoup.cpp.o	ef0c6b4221b56895
+77	672	1651348309864618100	dishlib/CMakeFiles/dishlib.dir/AbstractDish.cpp.o	400386f2c3ca4cce
+76	735	1651348309928186900	CMakeFiles/Versuch_2.dir/Customer.cpp.o	53dd4e174687a00c
+76	762	1651348309954730000	dishlib/CMakeFiles/dishlib.dir/DishFactory.cpp.o	ec19b427cc326629
+762	796	1651348309989866900	dishlib/libdishlib.a	f80737db2c3a1ac8
+76	1016	1651348310208880700	CMakeFiles/Versuch_2.dir/main.cpp.o	ffe64bd32ea71c30
+1016	1121	1651348310314119400	Versuch_2	ade32c17a9e6bc1c

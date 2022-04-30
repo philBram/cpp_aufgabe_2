@@ -1,0 +1,6 @@
+/media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2/cmake-build-debug/CMakeFiles/Versuch_2.dir
+/media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2/cmake-build-debug/dishlib/CMakeFiles/rebuild_cache.dir
+/media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2/cmake-build-debug/dishlib/CMakeFiles/edit_cache.dir
+/media/alllowd/4234D2BF34D2B55F/Fh/SS2022/C++/Labor/Versuch_2/cmake-build-debug/dishlib/CMakeFiles/dishlib.dir
